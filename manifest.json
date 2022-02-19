@@ -1,0 +1,10 @@
+{
+    "files": {
+        "index.js": "2734f96810bfbab806a683a18a05b6c404f3f5fe6e898dfcfb14e39f9ae72bde",
+        "module.json": "af47799e68f42dbee665e42630f360935bcbadfda64a9df933e2088e8c53c35e"
+    },
+    "defs": {
+        "C_PLAYER_LOCATION": 5,
+        "C_START_SKILL": 7
+    }
+}

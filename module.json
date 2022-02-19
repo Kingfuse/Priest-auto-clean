@@ -1,0 +1,10 @@
+{
+    "name": "Priest-auto-clean",
+    "author": "Kingfuse",
+    "description": "Priest-auto-clean",
+    "version": "104.0",
+    "servers": [
+        ""
+    ],
+    "disableAutoUpdate": false
+}
