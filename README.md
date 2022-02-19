@@ -1,7 +1,7 @@
 # Priest-auto-clean
 Priest-auto-clean when u run
 
-Use br command to enable/disable
+Use br command to enable/disable      Disable defaut
 
 Skill-Prediction and NGSP bern supported.
 
